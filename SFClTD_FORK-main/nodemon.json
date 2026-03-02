@@ -1,0 +1,5 @@
+{
+  "watch": ["server.ts", "api/**/*.ts"],
+  "ext": "ts",
+  "exec":"tsx --env-file .env server.ts"
+}
